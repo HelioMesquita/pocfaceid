@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "C861CB7A-5A26-43F2-AF74-32E84BF38FD2"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FE6513A5-7257-4CDA-8EE8-DD1884655710"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "POCFaceID/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "handleAuth(success:error:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FE6513A5-7257-4CDA-8EE8-DD1884655710 - e1d3e13c58d4ba22"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "POCFaceID.ViewController.handleAuth(success: Swift.Bool, error: Swift.Optional&lt;Swift.Error&gt;) -&gt; ()"
+                  moduleName = "POCFaceID"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/heliomesquita/Desktop/pocfaceid/POCFaceID/POCFaceID/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "184">
+               </Location>
+               <Location
+                  uuid = "FE6513A5-7257-4CDA-8EE8-DD1884655710 - 34c048ca91f62deb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in POCFaceID.ViewController.handleAuth(success: Swift.Bool, error: Swift.Optional&lt;Swift.Error&gt;) -&gt; ()"
+                  moduleName = "POCFaceID"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/heliomesquita/Desktop/pocfaceid/POCFaceID/POCFaceID/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "89">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
